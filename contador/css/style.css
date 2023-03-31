@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: #243452;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: rgb(241, 241, 241);
+}
+
+.font {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+#botaoColor {
+    background-color: transparent;
+}
